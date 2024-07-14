@@ -1,6 +1,6 @@
 # Kelasbawah: Community Software Development
 
-![Kelasbawah Logo](your-logo-url-here.pn) <!-- Replace with your actual logo URL -->
+![Kelasbawah Logo](https://avatars.githubusercontent.com/u/175026353?s=200&v=4) <!-- Replace with your actual logo URL -->
 
 Welcome to Kelasbawah, an innovative platform for community software development that will soon be launched! Kelasbawah is specially designed to empower developers of all levels, from beginners to experts, in collaborating, learning, and creating revolutionary software solutions.
 
