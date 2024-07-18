@@ -8,10 +8,10 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/kelasbawah/kelasbawah/blob/main/CONTRIBUTING.md">
+<a href="https://github.com/kelasbawah-official/kelasbawah/blob/main/CONTRIBUTING.md">
 <img src="https://img.shields.io/badge/CONTRIBUTIONS-WELCOME-000000?style=for-the-badge&labelColor=black"></a>
-<a href="https://github.com/kelasbawah/kelasbawah/releases">
-<img src="https://img.shields.io/github/v/release/kelasbawah/kelasbawah?style=for-the-badge&color=black&labelColor=black&logo=web"></a>
+<a href="https://github.com/kelasbawah-official/kelasbawah/releases">
+<img src="https://img.shields.io/github/v/release/kelasbawah-official/kelasbawah?style=for-the-badge&color=black&labelColor=black&logo=web"></a>
 <a href="https://kelasbawah.org">
 <img src="https://img.shields.io/badge/Kelasbawah-000000?style=for-the-badge&logo=kelasbawah&logoColor=white"></a>
 </p>
@@ -43,10 +43,3 @@
 - Mentorship dan Networking
 
 </details>
-
-## Installation
-### Clone Repository
-
-```bash
-git clone https://github.com/kelasbawah/kelasbawah
-cd kelasbawah
