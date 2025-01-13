@@ -7,46 +7,91 @@
   <img height="90" src="https://raw.githubusercontent.com/Kelasbawahstudio/.github/main/src/KELASBAWAH2.png">
 </picture>
 
-Empowering your AI dreams with Kelasbawah
+**Empowering your AI dreams with Kelasbawah**
 
 ![](https://raw.githubusercontent.com/Kelasbawahstudio/.github/main/src/rainbow.png)
 
 </div>
 
-### 👋🏻 Welcome to Kelasbawah
+---
 
-**Kelasbawah** is a collaborative software development community that fosters learning, growth, and contribution across a diverse range of developers. Whether you're a beginner learning to code, an intermediate developer honing your skills, or a seasoned expert mentoring others, Kelasbawah provides the environment to thrive and innovate.
+# KELASBAWAH
 
-## About the Community
+The Kelasbawah project is a decentralized community and innovation platform that aims to foster collaboration and growth. It is written with a focus on cutting-edge technologies to provide secure, scalable, and innovative solutions for developers around the world.
 
-Kelasbawah is a community built on the foundation of collaboration among developers of all skill levels. It offers a space for shared learning, problem-solving, and growth, where members support one another in their journey toward becoming better developers.
+![Mockup](https://raw.githubusercontent.com/Kelasbawahstudio/.github/main/src/mockup.png)
 
-### ⭐️ Our Project
+## About
 
-| Project                                      | Description                                                                                                                                                                                                                                                                                                    |
-| :------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Discussion forum**                           | The Kelasbawah Forum serves as a central hub where developers can engage in discussions, ask questions, and share knowledge. It provides a space for problem-solving, exchanging coding tips, and debating the latest trends in technology. Whether you're looking for help debugging code, sharing insights from a recent project, or exploring new tools and frameworks, the forum fosters open communication and learning. With dedicated threads for various programming languages, frameworks, and industry topics, members can easily navigate and contribute to conversations relevant to their interests and skill levels.                                                        |
-| **InquisitorAI**                          | InquisitorAI is an open-source AI-powered search engine designed to dive deep into the internet to find precise answers. It’s inspired by Perplexity AI but offers an open-source alternative that not only searches but comprehends your queries. Leveraging advanced machine learning techniques such as similarity searching and embeddings, it refines results and delivers clear, source-cited answers.                                                                                                                                                        |
-| **NightClub**                          | An open source codebase website is a space for developers to discuss.                                                                                                                 |
-| **The Store**                           | The Kelasbawah Store may represent a marketplace or repository where developers and the community can access tools, plugins, themes, or software components developed by Kelasbawah or its contributors. This store will likely serve as a central                                                                                                                                   |
-
-### 🤝 Want to Contribute?
-
-Feel free to dive into our projects, engage in discussions, or ask for help. Kelasbawah welcomes developers of all levels to participate, learn, and grow together! 🤝❤️
-
-### ❤️ Sponsor
-
-Every donation counts and your help is a bright light in our journey. Thank you for believing in us - your generosity guides us towards our mission, one flash of light at a time.
-
-<a href="https://opencollective.com/kelasbawah" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kelasbawah-official/.github/blob/main/static/sponsor-dark.png?raw=true">
-    <img src="https://github.com/kelasbawahstudio/.github/blob/main/static/sponsor-light.png?raw=true">
-  </picture>
-</a>
+The goal of Kelasbawah is to create a supportive environment for developers at all levels, focusing on shared learning, problem-solving, and open-source contributions. We aim to address challenges in digital services, data security, and interoperability through collaborative efforts.
 
 ---
 
-> **Principal Maintainers:** [@G1-Source](https://github.com/G1-Source) [@Shizukaseira](https://github.com/Shizukaseira) [@Jhonjack12](https://github.com/jhonjack12)
+## Projects
 
-<!-- LINK GROUP -->
+| Project              | Description                                                                                                                                                                                                                                                                                             |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Discussion Forum** | A central hub for developers to engage in discussions, ask questions, and share knowledge. Whether debugging code, sharing project insights, or exploring new tools and frameworks, this forum fosters open communication and collaboration.                                                               |
+| **InquisitorAI**     | An open-source AI-powered search engine designed for precise answers. Inspired by Perplexity AI, it offers an open-source alternative that comprehends queries using similarity searching and embeddings for refined, source-cited answers.                                                                |
+| **NightClub**        | A collaborative platform for developers to share, discuss, and contribute to open-source codebases.                                                                                                                                                                                                    |
+| **The Store**        | A repository of tools, plugins, themes, and software components developed by Kelasbawah or its contributors. A central marketplace for resources to enhance your development journey.                                                                                                                     |
+
+---
+
+## Features
+
+- **Secure Messaging:** Ensures privacy and security through encryption.
+- **Decentralized System:** Built on blockchain technology for reliable communication.
+- **User-Friendly UI:** Intuitive interface for seamless navigation.
+- **Open Source:** Full source code transparency for community collaboration.
+
+---
+
+## Technologies
+
+- **Backend:** Rust 🦀 for robust and efficient performance.
+- **Frontend:** TypeScript + Vue.js for dynamic and scalable interfaces.
+- **Styling:** TailwindCSS for modern and responsive design.
+- **Deployment:** Docker for seamless project hosting and deployment.
+
+---
+
+## Navigation
+
+| Section      | Topic                                                        |
+|--------------|--------------------------------------------------------------|
+| Summary      | [Short summary of the project](#about)                       |
+| Features     | [Project features](#features)                                |
+| Technologies | [Technologies used](#technologies)                           |
+| Setup        | [Project setup guide](#setup)                                |
+| Projects     | [Explore our initiatives](#projects)                         |
+| Contributing | [Join the community](#contributing)                          |
+| License      | [Usage rights and terms](#license)                           |
+| Security     | [Learn about vulnerabilities](#security)                     |
+
+---
+
+## Contributing
+
+We welcome contributions from the community! Whether it's bug fixes, feature requests, or new ideas, your input is invaluable. To get started:
+
+1. Fork the repository.
+2. Create a branch for your changes.
+3. Submit a pull request for review.
+
+---
+
+## License
+
+This project is licensed under the Apache License, Version 2.0. For more details, see the [LICENSE](./LICENSE).
+
+---
+
+## Security
+
+For information on project vulnerabilities and security updates, refer to [SECURITY.md](./SECURITY.md).
+
+<p align="center">
+    Thanks for reaching the bottom!
+    <a href="#readme-top">Go back to the top</a>
+</p>
